@@ -1,11 +1,12 @@
 Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Kevin Zheng
 ===================================================================================================================================
 
-* 📚  I study computer science at the City College of New York(CUNY City College)
-* 🌍  I'm based in New York City
-* 🧠  I'm learning typescript and Next.JS framework.
-* 🤝  I'm open to collaborating on any interesting projects.
-* ⚡  I also like developing games in Unity in my free time.
+* 📚 I study computer science at the City College of New York(CUNY City College)
+* 🌍 I'm based in New York City
+* 🧠 I'm learning typescript and Next.JS framework.
+* 🤝 I'm open to collaborating on any interesting projects.
+* ⚡ I also like developing games in Unity in my free time.
+* 🔭 Take a look at my resume: [Resume](https://github.com/KevinZheng0701/KevinZheng0701/blob/main/Resume.pdf)
 
 ### 💻 Tech stack
 
