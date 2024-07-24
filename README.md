@@ -24,8 +24,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 ### 📊 My GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KevinZheng0701&stroke=22c55e&background=171717&ring=6366f1&fire=6366f1&currStreakNum=22c55e&currStreakLabel=6366f1&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true")
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinZheng0701&layout=dount&langs_count=6&title_color=6366f1&text_color=22c55e&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages")
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dchen024&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinZheng0701&layout=donut&langs_count=6&title_color=6366f1&text_color=22c55e&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages")
 
 ### 🌐 Socials
 
