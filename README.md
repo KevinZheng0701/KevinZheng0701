@@ -2,10 +2,9 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 ===================================================================================================================================
 
 * 📚 I study computer science at the City College of New York(CUNY City College)
-* 🌍 I'm based in New York City
-* 🧠 I'm learning typescript and Next.JS framework.
-* 🤝 I'm open to collaborating on any interesting projects.
-* ⚡ I also like developing games in Unity in my free time.
+* 🧠 I'm learning typescript and Next.JS framework
+* 🤝 I'm open to collaborating on any interesting projects
+* ⚡ I also like developing games in Unity in my free time
 * 🔭 Take a look at my resume: [Resume](https://github.com/KevinZheng0701/KevinZheng0701/blob/main/Resume.pdf)
 
 ### 💻 Tech stack
@@ -16,7 +15,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 **Frameworks:**
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Developer Tools:**
 
